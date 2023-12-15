@@ -1,0 +1,5 @@
++ Llamas are cool
+- llamas are not cool.
+Llama123 (AuthorName) 2023-01-01 14:30 [Technology] llamas are wierd.
+Dec 15 12:34:56 server sshd[1234]: llama logged in ssh2 session 5678
+
